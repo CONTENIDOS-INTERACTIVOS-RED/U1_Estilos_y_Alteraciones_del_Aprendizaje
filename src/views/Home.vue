@@ -22,13 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
+              p.descripcion.mb-4 Los trastornos específicos del aprendizaje (TEA) abarcan dificultades como la dislexia, la disgrafía, la disortografía y la discalculia, las cuales impactan habilidades académicas a pesar de contar con una inteligencia promedio. Estos trastornos tienen un origen biológico y están influenciados por factores genéticos, epigenéticos y ambientales. Su detección temprana resulta crucial para prevenir retrasos en el rendimiento académico y fortalecer la autoestima. La dislexia, por ejemplo, afecta la lectura y la escritura, sin estar vinculada al cociente intelectual. Los tratamientos incluyen estrategias multisensoriales, así como el apoyo familiar y docente, fomentando un desarrollo integral y exitoso.
 
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
-              
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
-
-              .button-container.mt-auto
+              .button-container.mt-auto.mb-4
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
                   .iniciar-btn-container.w-100.w-md-auto
                     span.iniciar-btn-text INICIAR
@@ -74,7 +70,7 @@ export default {
   .home-main-title
     font-size: 18px
     font-weight: bold
-    color: $color-acento-contenido
+    color: #E5782D
   .home-content
     background-color: white
   .info-section
@@ -108,7 +104,7 @@ export default {
         background-color: $color-acento-botones
         padding: 12px 42px 12px 32px
         width: 100%
-        color: #fff !important
+        color: #0B0A0A !important
     .icon
       background-color: $color-sistema-e
       padding: 0px 20px
@@ -149,12 +145,12 @@ export default {
 .iniciar-btn-container
   .iniciar-btn-text
     transition: all 0.25s ease-in-out
-    background-color: $color-acento-botones !important
+    background-color: #9EF0FD !important
     color: #0B0A0A !important
   .icon
     transition: all 0.25s ease-in-out
     // background-color: #083E61 !important
-    background-color: darken($color-acento-botones, 30% ) !important
+    background-color: #083E61 !important
   &:hover
     .icon
       transform: scale(1.06)
