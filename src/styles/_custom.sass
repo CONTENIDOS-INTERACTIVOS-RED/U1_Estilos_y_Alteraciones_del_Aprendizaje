@@ -24,6 +24,8 @@
     background-color: #F0E9F6
   &-4
     background-color: #EAF8FD
+  &-5
+    background-color: #D9D5E3
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -40,21 +42,24 @@
     border-top: 5px solid $color-terciario !important
 
 // Full Width Background
-.bg-full-width
-  background-size: cover
+.bg-full-width, .bg-full-width-2
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
   @media screen and (max-width: $bp-max-sm)
     padding-left: 1.5rem
     padding-right: 1.5rem
+.bg-full-width
+  background-size: cover
+.bg-full-width-2
+  background-size: contain
 
 .bg-fondo
   &-1
     background-image: url("../assets/bg/bg1.png") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
+    background-image: url("../assets/bg/bg2.png") !important
     background-position: bottom
   &-slider
     background-image: url("../assets/bg/bg-slider.png") !important
@@ -137,7 +142,7 @@ $custom-card-img-height: 322px
 
 .box-shadow
   box-shadow: 0 4px 8px rgba(0,0,0,0.1)
-  border: 2px solid rgba(0,0,0,0.1)
+  border: 1px solid rgba(0,0,0,0.1)
 
 .shadow-soft
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 10px 15px rgba(0, 0, 0, 0.05)
@@ -210,3 +215,16 @@ $custom-card-img-height: 322px
   a
     text-decoration: none
     color: $color-sistema-texto
+
+
+.rounded-top
+  border-top-left-radius: 16px !important
+  border-top-right-radius: 16px !important
+
+.rounded-bottom
+  border-bottom-left-radius: 16px !important
+  border-bottom-right-radius: 16px !important
+
+
+.lista-ul--color.color-dark li > i:first-of-type
+  color: #453179 !important
