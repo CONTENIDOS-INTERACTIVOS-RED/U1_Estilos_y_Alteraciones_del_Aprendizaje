@@ -358,7 +358,7 @@
                 p.mb-0.text-center Torpeza al realizar actividades como atarse los zapatos o andar en bicicleta, problemas de orientación espacial.
 
 
-      .bg-full-width.bg-color-5.mb-lg-5
+      .bg-full-width.bg-color-5
         .px-4.p-md-5
           .row.justify-content-center.align-items-start
             .col-lg-5
@@ -383,20 +383,28 @@
           h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
           .row.material-complementario
             .col-12.col-md-6.col-lg-7
-              p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
-  
+              p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar y enriquecer su aprendizaje en los temas tratados en esta unidad.
+
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
-  
+                a(href="https://institutojubones.edu.ec/ojs/index.php/portal/article/view/295/577" target="_blank" rel="noopener noreferrer") Agulló, L. G., Sánchez, M. R., & Azuaga, J. L. L. (2021). Disgrafía en los procesos educativos. Portal de la Ciencia, 2(1), 1-14.
+
+              p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://www.psicologia-online.com/disgrafia-definicion-tipos-causas-tratamiento-y-ejemplos-4458.html?form=MG0AV3" target="_blank" rel="noopener noreferrer") Babarro, N. (22 de marzo 2019) Disgrafía: definición, tipos, causas, tratamiento y ejemplos. Psicología-Online.
+
+              p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://www.understood.org/es-mx/articles/at-a-glance-classroom-accommodations-for-dysgraphia?form=MG0AV3" target="_blank" rel="noopener noreferrer") Morin, A. (22 octubre,2020). Adaptaciones en el aula para la disgrafía. Understood.
+
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
-  
+                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/153574?page=43" target="_blank" rel="noopener noreferrer") Portellano Pérez, J. A. (2014). La disgrafía: concepto, diagnóstico y tratamiento de los trastornos de escritura: ( ed.). Editorial CEPE.
+
               p.d-flex.my-4
-                img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
-  
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://psicologiaymmente.com/clinica/disgrafia" target="_blank" rel="noopener noreferrer") Torres, A. (10 de noviembre, 2017) Disgrafía: causas, síntomas y tratamiento. Psicología clínica.
+
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure
                 img(src='@/assets/componentes/material-complementario.svg', alt='')

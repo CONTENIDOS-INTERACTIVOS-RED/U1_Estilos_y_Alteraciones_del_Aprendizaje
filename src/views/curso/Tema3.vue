@@ -397,20 +397,20 @@
           h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
           .row.material-complementario
             .col-12.col-md-6.col-lg-7
-              p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
-  
+              p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar y enriquecer su aprendizaje en los temas tratados en esta unidad.
+
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
-  
+                a(href="https://www.psicologia-online.com/que-es-la-disortografia-sintomas-causas-tratamiento-y-ejemplos-4460.html" target="_blank" rel="noopener noreferrer") Babarro, N. (29 de agosto, 2024) Qué es la disortografía: síntomas, causas, tratamiento y ejemplos. Psicología-Online.
+
+              p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://disfam.org/wp-content/uploads/2023/06/disortografía-1.pdf" target="_blank" rel="noopener noreferrer") Serrano, M. C. (2010). ¿EN QUÉ CONSISTE LA DISORTOGRAFÍA? Temas para la Educación.
+
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
-  
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
-  
+                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/153575?page=19" target="_blank" rel="noopener noreferrer") Rodríguez Jorrín, D. (2018). La disortografía: prevención y corrección: ( ed.). Editorial CEPE.
+
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure
                 img(src='@/assets/componentes/material-complementario.svg', alt='')
