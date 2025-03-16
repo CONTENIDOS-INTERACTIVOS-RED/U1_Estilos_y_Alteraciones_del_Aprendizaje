@@ -15,47 +15,27 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Trastornos específicos del aprendizaje',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_1_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo: 'Dislexia',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Tipos de dislexia',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Subtítulo tema',
+            titulo: '¿Cómo detectar y tratar la dislexia?',
             hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_3',
           },
         ],
       },
@@ -63,22 +43,35 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Título tema',
+        titulo: '3. Disgrafía',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Características y síntomas de la disgrafía',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'Causas de la disgrafía',
             hash: 't_3_2',
           },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'Tipos de disgrafía',
+            hash: 't_3_3',
+          },
         ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'La discalculia',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'sintesis',
@@ -130,14 +123,77 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Acalculia',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Dificultad en el aprendizaje de las matemáticas y el procesamiento numérico.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Afasia',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'Pérdida de la capacidad de comprender o producir lenguaje, debido a una lesión cerebral.',
+    },
+    {
+      termino: 'Agrafia',
+      significado:
+        'Pérdida de la capacidad de escribir, debido a una lesión cerebral.',
+    },
+    {
+      termino: 'Alexia',
+      significado:
+        'pérdida de la capacidad de leer, debido a una lesión cerebral',
+    },
+    {
+      termino: 'Ambidextrismo',
+      significado:
+        'Uso indistinto de ambas manos, lo que puede dificultar la lateralización.',
+    },
+    {
+      termino: 'Atención',
+      significado:
+        'Capacidad para concentrarse en un estímulo específico. su déficit afecta el aprendizaje.',
+    },
+    {
+      termino: 'Automatización',
+      significado:
+        'Capacidad de realizar tareas de forma automática, sin esfuerzo consciente. Su déficit dificulta la fluidez en lectura y escritura.',
+    },
+    {
+      termino: 'Cognición',
+      significado:
+        'Conjunto de procesos mentales involucrados en el conocimiento, como la memoria, el lenguaje y el razonamiento.',
+    },
+    {
+      termino: 'Decodificación',
+      significado: 'Proceso de convertir letras en sonidos para leer.',
+    },
+    {
+      termino: 'Discalculia',
+      significado: 'Dificultad específica en el aprendizaje de las matemáticas',
+    },
+    {
+      termino: 'Disgrafía',
+      significado: 'Dificultad específica en la escritura.',
+    },
+    {
+      termino: 'Dislalia',
+      significado: 'Trastorno en la articulación de los sonidos del habla.',
+    },
+    {
+      termino: 'Dislexia',
+      significado: 'Dificultad específica en la lectura.',
+    },
+    {
+      termino: 'Disortografía',
+      significado:
+        'Dificultad en la ortografía y la aplicación de las reglas de escritura.',
+    },
+    {
+      termino: 'Fonema',
+      significado: 'Unidad mínima de sonido en una lengua.',
+    },
+    {
+      termino: 'Percepción',
+      significado: 'Proceso de interpretación de la información sensorial.',
     },
   ],
 }

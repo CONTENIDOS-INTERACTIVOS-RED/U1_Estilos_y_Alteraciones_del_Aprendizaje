@@ -84,7 +84,7 @@
               .anexo__icono(:style="{'background-color': '#DBE7FC'}")
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p <strong>Anexo. </strong> Viabilidad económica.
+                p <strong>Anexo. </strong> Trastornos específicos del aprendizaje
 
           .col-lg-4
             figure(data-aos="zoom-in")
@@ -95,19 +95,31 @@
         h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
         .row.material-complementario
           .col-12.col-md-6.col-lg-7
-            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar y enriquecer su aprendizaje en los temas tratados en esta unidad.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://doi.org/10.56712/latam.v5i1.1612" target="_blank" rel="noopener noreferrer") Arteaga, F., Solorzano, S. E. M., García, C. A. V., Gualán, R. R. A., Bailón, L. R. G., Laz, A. M. P., & Rivera, J. M. M. (2024). Estrategias pedagógicas para el abordaje educativo de la dislexia: Revisión sistemática de la literatura. Latam: revista latinoamericana de Ciencias Sociales y Humanidades, 5(1), 43.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              span Dansilo. (2010). La lectura y sus dificultades: dislexia evolutiva. Ciencias Psicológicas 2010; IV (2): 275 – 276. Prensa Médica Latinoamericana 2010 - ISSN 1688-4094.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://dislexianeurodesarrollo.blogspot.com/2020/07/introduccion-la-dislexia-la-dislexia-es.html" target="_blank" rel="noopener noreferrer") López, C. (28 de julio de 2020) ¿Qué es la dislexia?
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
+              span Magaña, M., & Ruiz-Lázaro, P. (2005). Trastornos específicos del aprendizaje. Sociedad española de Pediatría Extrahospitalaria y Atención primaria (SEPEAP), 21-28.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://conceptodefinicion.de/trastorno/" target="_blank" rel="noopener noreferrer") Pérez, M. (15 de agosto, 2023). Definición de Trastorno.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/49080?page=20" target="_blank" rel="noopener noreferrer") Teruel Romero, J. & Latorre Latorre, Á. (2015). Dificultades de aprendizaje: intervención en dislexia y discalculia: ( ed.). Difusora Larousse - Ediciones Pirámide.
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
