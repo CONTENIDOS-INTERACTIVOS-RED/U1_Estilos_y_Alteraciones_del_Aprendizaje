@@ -120,7 +120,7 @@
                 img(src="@/assets/curso/tema3/tab-3.png", alt="").img-fluid
             .col-md-7
               h4.mb-3 Factores pedagógicos
-              p.mb-3 Predisposición hereditaria a dificultades en la escritura.
+              p.mb-3 Falta de una adecuada estimulación escolar y dificultades en la enseñanza de la lectoescritura.
 
         .tabs-content.border.px-4.p-md-5.py-3(titulo="Factores socioculturales" :icon="require('@/assets/curso/tema2/9.svg')")
           .row.align-items-center
@@ -185,7 +185,7 @@
       #t_3_2.titulo-segundo(data-aos="flip-up")
         h2 #[span 3.2] Causas de la disgrafía
 
-      p.mb-4(data-aos="fade-up") Las causas de la disgrafía pueden ser diversas e incluyen factores neurológicos, psicosociales, familiares y educativos.
+      p.mb-4(data-aos="fade-up") La disgrafía es un trastorno multifactorial que puede originarse por diversas causas relacionadas con el desarrollo cognitivo, psicomotor y emocional. Según Agulló et al. (2021), es esencial considerar diferentes perspectivas para comprender mejor los factores que influyen en esta dificultad de escritura.
 
 
       h3.mb-4 Factores cognitivos y estratégicos
@@ -363,7 +363,7 @@
                 img(src='@/assets/curso/tema3/17.png', alt='')
             .col-lg-8
               h2.mb-4(data-aos="flip-up") Tratamiento y estrategias en el aula para la disgrafía
-              p.mb-4(data-aos="fade-right") Los invitamos a leer el documento sobre Tratamiento y estrategias en el aula para la disgrafía , donde se presentan enfoques clave para apoyar a los estudiantes con disgrafía. Descubrirán cómo la intervención temprana, el uso de tecnologías asistidas y estrategias multisensoriales pueden mejorar el aprendizaje y la escritura, promoviendo un ambiente inclusivo y adaptado a sus necesidades.
+              p.mb-4(data-aos="fade-right") Los invitamos a leer el documento sobre Tratamiento y estrategias en el aula para la disgrafía, donde se presentan enfoques clave para apoyar a los estudiantes con disgrafía. Descubrirán cómo la intervención temprana, el uso de tecnologías asistidas y estrategias multisensoriales pueden mejorar el aprendizaje y la escritura, promoviendo un ambiente inclusivo y adaptado a sus necesidades.
 
               a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
@@ -381,7 +381,7 @@
         .px-4.p-md-5
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p.mb-4(data-aos="fade-right") Los invitamos a leer el documento La disortografía , donde se explica este trastorno del aprendizaje que afecta la escritura y la correcta aplicación de reglas ortográficas. A través de ejemplos, causas y tipologías, se analizan los errores más comunes y se proponen estrategias para su detección temprana e intervención. Comprender sus características permite diseñar estrategias pedagógicas adecuadas y favorecer el desarrollo de la escritura en los estudiantes.
+              p.mb-4(data-aos="fade-right") Los invitamos a leer el documento "La disortografía", donde se explica este trastorno del aprendizaje que afecta la escritura y la correcta aplicación de reglas ortográficas. A través de ejemplos, causas y tipologías, se analizan los errores más comunes y se proponen estrategias para su detección temprana e intervención. Comprender sus características permite diseñar estrategias pedagógicas adecuadas y favorecer el desarrollo de la escritura en los estudiantes.
               a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
@@ -401,15 +401,8 @@
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://www.psicologia-online.com/que-es-la-disortografia-sintomas-causas-tratamiento-y-ejemplos-4460.html" target="_blank" rel="noopener noreferrer") Babarro, N. (29 de agosto, 2024) Qué es la disortografía: síntomas, causas, tratamiento y ejemplos. Psicología-Online.
+                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/153575?page=19" target="_blank" rel="noopener noreferrer") Rodríguez Jorrín, D. (2018). La disortografía: prevención y corrección: (ed.). Editorial CEPE. 
 
-              p.d-flex.my-4
-                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://disfam.org/wp-content/uploads/2023/06/disortografía-1.pdf" target="_blank" rel="noopener noreferrer") Serrano, M. C. (2010). ¿EN QUÉ CONSISTE LA DISORTOGRAFÍA? Temas para la Educación.
-
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/153575?page=19" target="_blank" rel="noopener noreferrer") Rodríguez Jorrín, D. (2018). La disortografía: prevención y corrección: ( ed.). Editorial CEPE.
 
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure

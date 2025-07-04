@@ -65,7 +65,7 @@
               .bg-color-white.p-4.h-100.box-shadow
                 img(src='@/assets/curso/tema1/icon-5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Impacto
-                p.text-center Entre el 5 y 17% de los niños en edad escolar y del 15 al 23% de los adultos 
+                p.text-center Afecta el desarrollo académico, laboral y personal.
               .bg-color-white.p-4.h-100.box-shadow
                 img(src='@/assets/curso/tema1/icon-6.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Intervención
@@ -99,27 +99,20 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://doi.org/10.56712/latam.v5i1.1612" target="_blank" rel="noopener noreferrer") Arteaga, F., Solorzano, S. E. M., García, C. A. V., Gualán, R. R. A., Bailón, L. R. G., Laz, A. M. P., & Rivera, J. M. M. (2024). Estrategias pedagógicas para el abordaje educativo de la dislexia: Revisión sistemática de la literatura. Latam: revista latinoamericana de Ciencias Sociales y Humanidades, 5(1), 43.
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span Dansilo. (2010). La lectura y sus dificultades: dislexia evolutiva. Ciencias Psicológicas 2010; IV (2): 275 – 276. Prensa Médica Latinoamericana 2010 - ISSN 1688-4094.
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://dislexianeurodesarrollo.blogspot.com/2020/07/introduccion-la-dislexia-la-dislexia-es.html" target="_blank" rel="noopener noreferrer") López, C. (28 de julio de 2020) ¿Qué es la dislexia?
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span Magaña, M., & Ruiz-Lázaro, P. (2005). Trastornos específicos del aprendizaje. Sociedad española de Pediatría Extrahospitalaria y Atención primaria (SEPEAP), 21-28.
+              a(href="https://doi.org/10.1016/j.rmclc.2022.09.001" target="_blank" rel="noopener noreferrer") Portellano Pérez, J. A. (2014). La disgrafía: concepto, diagnóstico y tratamiento de los trastornos de escritura: (ed.). Editorial CEPE.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://conceptodefinicion.de/trastorno/" target="_blank" rel="noopener noreferrer") Pérez, M. (15 de agosto, 2023). Definición de Trastorno.
+              a(href="https://www.proyectopaid.com/post/madi-sonri%C3%B3" target="_blank" rel="noopener noreferrer") Pulgarín, D.A. Ospina, F.P (2023). Madi Sonrió. Fondo Editorial EIA. 
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/49080?page=20" target="_blank" rel="noopener noreferrer") Teruel Romero, J. & Latorre Latorre, Á. (2015). Dificultades de aprendizaje: intervención en dislexia y discalculia: ( ed.). Difusora Larousse - Ediciones Pirámide.
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=bNhowO8msp4" target="_blank" rel="noopener noreferrer") RevistaMSP [@RevistaMSP]. (8 de octubre, 2023). Día mundial de la dislexia: ¿Cómo funciona en el cerebro? - [Video]. YouTube.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/49080?page=20" target="_blank" rel="noopener noreferrer") Teruel Romero, J. & Latorre Latorre, Á. (2015). Dificultades de aprendizaje: intervención en dislexia y discalculia: (ed.). Difusora Larousse - Ediciones Piramide
+
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure

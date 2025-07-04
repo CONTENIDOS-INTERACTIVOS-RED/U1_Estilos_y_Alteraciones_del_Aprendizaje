@@ -111,72 +111,98 @@ export default {
   referencias: [
     {
       referencia:
-        'Escobar, J. P., & Tenorio, M. (2022). Trastornos específicos del aprendizaje: origen, identificación y acompañamiento. Revista Médica Clínica Las Condes, 33(5), 473-479.',
-      link: 'https://doi.org/10.1016/j.rmclc.2022.09.001',
+        'Arteaga, F., Solorzano, S. E. M., García, C. A. V., Gualán, R. R. A., Bailón, L. R. G., Laz, A. M. P., & Rivera, J. M. M. (2024). Estrategias pedagógicas para el abordaje educativo de la dislexia: Revisión sistemática de la literatura. Latam: revista latinoamericana de Ciencias Sociales y Humanidades, 5(1), 43.',
+      link: 'https://doi.org/10.56712/latam.v5i1.1612',
     },
     {
       referencia:
-        'Pulgarín, D.A. Ospina, F.P (2023). Madi Sonrió. Fondo Editorial EIA.',
-      link: 'MADI SONRIO COMPLETO-1.pdf - Google Drive',
+        'Dansilo. (2010). La lectura y sus dificultades: dislexia evolutiva. Ciencias Psicológicas 2010; IV (2): 275 – 276. Prensa Médica Latinoamericana 2010 - ISSN 1688-4094.',
+      link:
+        'http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S1688-42212010000200009',
+    },
+    {
+      referencia: 'López, C. (28 de julio de 2020) ¿Qué es la dislexia?',
+      link:
+        'https://dislexianeuorodesarrollo.blogspot.com/2020/07/introduccion-la-dislexia-la-dislexia-es.html',
     },
     {
       referencia:
-        'Teruel Romero, J. & Latorre Latorre, Á. (2015). Dificultades de aprendizaje: intervención en dislexia y discalculia: (ed.). Difusora Larousse - Ediciones Pirámide',
+        'Magaña, M., & Ruiz-Lázaro, P. (2005). Trastornos específicos del aprendizaje. Sociedad española de Pediatría Extrahospitalaria y Atención primaria (SEPEAP), 21-28.',
+      link:
+        'https://dolorsmaspsicologa.com/wp-content/uploads/2015/10/Ps_inf_trastornos_especificos_aprendizaje.pdf',
+    },
+    {
+      referencia: 'Pérez, M. (15 de agosto, 2023). Definición de Trastorno.',
+      link: 'https://conceptodefinicion.de/trastorno/',
+    },
+    {
+      referencia:
+        'Teruel Romero, J. & Latorre Latorre, Á. (2015). Dificultades de aprendizaje: intervención en dislexia y discalculia: (ed.). Difusora Larousse - Ediciones Pirámide.',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/49080?page=20',
     },
     {
       referencia:
-        'Portellano Pérez, J. A. (2014). La disgrafía: concepto, diagnóstico y tratamiento de los trastornos de escritura: (ed.). Editorial CEPE.',
+        'Agulló, L. G., Sánchez, M. R., & Azuaga, J. L. L. (2021). Disgrafía en los procesos educativos. Portal de la Ciencia, 2(1), 1-14.',
+      link:
+        'https://institutojubones.edu.ec/ojs/index.php/portal/article/view/295/577',
+    },
+    {
+      referencia:
+        'Babarro, N. (26 de marzo 2019) Disgrafía: definición, tipos, causas, tratamiento y ejemplos. Psicología-Online.',
+      link:
+        'https://www.psicologia-online.com/disgrafia-definicion-tipos-causas-tratamiento-y-ejemplos-4458.html?form=MGOAV3',
+    },
+    {
+      referencia:
+        'Morin, A. (22 octubre,2020). Adaptaciones en el aula para la disgrafía. Understood.',
+      link:
+        'https://www.understood.org/es-mx/articles/at-a-glance-classroom-accommodations-for-dysgraphia?form=MGOAV3',
+    },
+    {
+      referencia:
+        'Portellano Pérez, J. A. (2014). La disgrafía: concepto, diagnóstico y tratamiento de los trastornos de escritura: ( ed.). Editorial CEPE.',
       link:
         'https://elibro.net/es/ereader/tecnologicadeloriente/153574?page=43',
     },
     {
       referencia:
-        'Rodríguez Jorrín, D. (2018). La disortografía: prevención y corrección: (ed.). Editorial CEPE.',
+        'Torres, A. (10 de noviembre, 2017) Disgrafía: causas, síntomas y tratamiento. Psicología clínica.',
+      link: 'https://psicologicamente.com/clinica/disgrafia',
+    },
+    {
+      referencia:
+        'Babarro, N. (29 de agosto, 2024) Qué es la disortografía: síntomas, causas, tratamiento y ejemplos. Psicología-Online.',
+      link:
+        'https://www.psicologia-online.com/que-es-la-disortografia-sintomas-causas-tratamiento-y-ejemplos-4460.html',
+    },
+    {
+      referencia:
+        'Serrano, M. C. (2010). ¿EN QUÉ CONSISTE LA DISORTOGRAFÍA? Temas para la Educación.',
+      link: 'https://disfam.org/wp-content/uploads/2023/06/disortografia-1.pdf',
+    },
+    {
+      referencia:
+        'Rodríguez Jorrín, D. (2018). La disortografía: prevención y corrección: ( ed.). Editorial CEPE.',
       link:
         'https://elibro.net/es/ereader/tecnologicadeloriente/153575?page=19',
     },
     {
       referencia:
-        'Benedicto-López, P., & Rodríguez-Cuadrado, S. (2019). Discalculia: manifestaciones clínicas, evaluación y diagnóstico. Perspectivas actuales de intervención educativa. RELIEVE. Revista Electrónica de Investigación y Evaluación Educativa, 25(1), 10125.',
-      link: 'https://doi.org/10.7203/relieve.25.1.10125',
-    },
-    {
-      referencia:
-        'Bravo Mendoza, A. M., López Vargas, A. R., & Pérez Palmett, G. R. (2021). La discalculia es una dificultad silenciosa. Universidad de San Buenaventura.',
+        'Babarro, N. (2 de septiembre, 2024) Qué es la discalculia: síntomas, causas y tratamiento. Psicología-Online',
       link:
-        'https://bibliotecadigital.usb.edu.co/server/api/core/bitstreams/420f1fc0-e983-4832-983a-d9a4753aa256/content?form=MG0AV3',
+        'https://www.psicologia-online.com/que-es-la-discalculia-sintomas-causas-y-tratamiento-4459.html?form=MGOAV3',
     },
     {
       referencia:
-        'RevistaMSP [@RevistaMSP]. (8 de octubre, 2023). Día mundial de la dislexia: ¿Cómo funciona en el cerebro? - [Video]. YouTube.',
-      link: 'https://www.youtube.com/watch?v=bNhowO8msp4',
-    },
-    {
-      referencia:
-        'Neurociencias, D. [@DiegoNeurociencias]. (22 julio, 2021). Dislexia, disgrafía y discalculia. [Video]. YouTube.',
-      link: 'https://www.youtube.com/watch?v=pVnW_5w8c4M',
-    },
-    {
-      referencia:
-        'Babarro, N. (2 de septiembre, 2024). Qué es la dislexia: síntomas, tipos, causas y tratamiento. Psicología-Online.',
+        'González, A. G. Á., & Freire, J. F. R. (2021). La discalculia en alumnos de la educación básica. Sociedad & Tecnología, 4(3), 432-446.',
       link:
-        'https://www.psicologia-online.com/que-es-la-dislexia-sintomas-tipos-causas-y-tratamiento-4456.html',
+        'https://institutojubones.edu.ec/ojs/index.php/societec/article/view/147/434',
     },
     {
       referencia:
-        'Expertos en Educación, E. (2022, febrero 18). Los distintos tipos de disgrafía: características y consecuencias para el aprendizaje. VIU España.',
+        'Teruel Romero, J. & Latorre Latorre, Á. (2015). Dificultades de aprendizaje: intervención en dislexia y discalculia: (ed.). Difusora Larousse - Ediciones Pirámide.',
       link:
-        'https://www.universidadviu.com/es/actualidad/nuestros-expertos/los-distintos-tipos-de-disgrafia-caracteristicas-y-consecuencias-para',
-    },
-    {
-      referencia:
-        'Puerta, A. R. (14 de marzo, 1(2021). Disortografía. Lifeder.',
-      link: 'https://www.lifeder.com/disortografia/',
-    },
-    {
-      referencia: 'Briceño V., G. (2018). Discalculia. De Euston96:',
-      link: 'https://www.euston96.com/discalculia/',
+        'https://elibro.net/es/ereader/tecnologicadeloriente/49080?page=110',
     },
   ],
   glosario: [

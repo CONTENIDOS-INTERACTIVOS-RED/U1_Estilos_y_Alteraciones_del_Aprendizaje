@@ -192,7 +192,7 @@
               .col-lg-auto
                 img(src="@/assets/curso/tema2/8.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 Según Magaña y Ruiz-Lázaro (2005), el diagnóstico y la intervención temprana , preferiblemente antes de los siete años, son fundamentales para evitar un retraso académico significativo. Sin una identificación y tratamiento adecuados, los estudiantes pueden compensar sus dificultades con un esfuerzo extraordinario de memoria, lo que resulta insostenible a largo plazo.
+                p.mb-0 Según Magaña y Ruiz-Lázaro (2005), el diagnóstico y la intervención temprana, preferiblemente antes de los siete años, son fundamentales para evitar un retraso académico significativo. Sin una identificación y tratamiento adecuados, los estudiantes pueden compensar sus dificultades con un esfuerzo extraordinario de memoria, lo que resulta insostenible a largo plazo.
 
           p(data-aos="fade-left") Es importante destacar que la dislexia no es una enfermedad, sino un estilo de aprendizaje que muchas veces no se considera en el sistema educativo. No desaparece con el tiempo, por lo que requiere un enfoque estructurado para garantizar que los estudiantes desarrollen sus habilidades de lectura y escritura y puedan acceder a la información de manera equitativa.
 
@@ -260,7 +260,7 @@
               .custom-image-card-2.h-100
                 img.custom-image-card__image(src="@/assets/curso/tema2/15.png" alt="Estudiante con tutor trabajando en ejercicios de aprendizaje")
                 .custom-image-card__text.p-4
-                  h4.mb-3.text-center Aprendizaje inclusivo
+                  h4.mb-3.text-center Dislexia adquirida
                   p.mb-0.text-center Se presenta después de una lesión cerebral, como un traumatismo craneoencefálico o un accidente cerebrovascular. La forma en que afecta la lectura depende de la zona del cerebro afectada.
             
             .col-lg-6.mb-4(data-aos="fade-left")
@@ -284,7 +284,7 @@
                 .bg-color-6.p-3.rounded-circle
                   img(src="@/assets/template/icono-link.svg", style="width: 24px;")
               .col
-                h4.mb-2 ¿Cómo funciona en el cerebro?
+                h4.mb-2 ¿Qué es la dislexia?
                 p.mb-0 Babarro, N. (2 de septiembre, 2024). Qué es la dislexia: síntomas, tipos, causas y tratamiento. Psicología-Online.
               .col-auto
                 a.boton.color-acento-botones.texto-blanco(href="#" target="_blank")
@@ -357,6 +357,32 @@
                 h4.mb-3.text-center Coordinación motriz
                 p.mb-0.text-center Torpeza al realizar actividades como atarse los zapatos o andar en bicicleta, problemas de orientación espacial.
 
+      h2 Tratamiento y estrategias de apoyo
+
+      p Según Teruel y Latorre (2015), la dislexia no tiene una cura definitiva, pero existen estrategias que ayudan a mejorar las habilidades de lectoescritura y reducir las dificultades asociadas.
+
+      .row.align-items-start.mb-5
+        .col-lg-8
+      
+          AcordionA(tipo="b")
+            .div(titulo="Intervención temprana")
+              p Detectar la dislexia en los primeros años de escolarización permite trabajar en el desarrollo de habilidades adaptadas a cada niño.
+      
+            .div(titulo="Sobre aprendizaje")
+              p Reforzar la lectoescritura mediante la repetición y la práctica constante para mejorar la fluidez y la comprensión.
+      
+            .div(titulo="Adaptación del aprendizaje")
+              p Implementar métodos multisensoriales que combinen estímulos visuales, auditivos y táctiles para mejorar el procesamiento del lenguaje.
+      
+            .div(titulo="Apoyo familiar y emocional")
+              p Los padres deben proporcionar un entorno positivo, evitando castigos por errores y fomentando la confianza del niño en sus capacidades.
+      
+        .col-lg-4
+          figure
+            img(src="@/assets/curso/tema2/24.png", alt="").mb-4.mb-lg-0
+      
+      p El papel de los padres es fundamental en este proceso. Teruel y Latorre (2015) destacan que deben comprender las dificultades de sus hijos y comunicarles que la dislexia no es una señal de inferioridad, sino un reto que requiere mayor esfuerzo. Se recomienda reforzar los logros, evitar la sobreprotección y fomentar la autonomía del niño para que pueda enfrentar sus dificultades con seguridad.
+
 
       .bg-full-width.bg-color-5
         .px-4.p-md-5
@@ -387,23 +413,14 @@
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://institutojubones.edu.ec/ojs/index.php/portal/article/view/295/577" target="_blank" rel="noopener noreferrer") Agulló, L. G., Sánchez, M. R., & Azuaga, J. L. L. (2021). Disgrafía en los procesos educativos. Portal de la Ciencia, 2(1), 1-14.
+                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/153574?page=43" target="_blank" rel="noopener noreferrer") Portellano Pérez, J. A. (2014). La disgrafía: concepto, diagnóstico y tratamiento de los trastornos de escritura: (ed.). Editorial CEPE.
+
 
               p.d-flex.my-4
-                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://www.psicologia-online.com/disgrafia-definicion-tipos-causas-tratamiento-y-ejemplos-4458.html?form=MG0AV3" target="_blank" rel="noopener noreferrer") Babarro, N. (22 de marzo 2019) Disgrafía: definición, tipos, causas, tratamiento y ejemplos. Psicología-Online.
+                img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+                a(href="https://www.youtube.com/watch?v=pVnW_5w8c4M" target="_blank" rel="noopener noreferrer") Neurociencias, D. [@DiegoNeurociencias]. (22 julio, 2021). Dislexia, disgrafía y discalculia. [Video]. YouTube.
 
-              p.d-flex.my-4
-                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://www.understood.org/es-mx/articles/at-a-glance-classroom-accommodations-for-dysgraphia?form=MG0AV3" target="_blank" rel="noopener noreferrer") Morin, A. (22 octubre,2020). Adaptaciones en el aula para la disgrafía. Understood.
 
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/153574?page=43" target="_blank" rel="noopener noreferrer") Portellano Pérez, J. A. (2014). La disgrafía: concepto, diagnóstico y tratamiento de los trastornos de escritura: ( ed.). Editorial CEPE.
-
-              p.d-flex.my-4
-                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://psicologiaymmente.com/clinica/disgrafia" target="_blank" rel="noopener noreferrer") Torres, A. (10 de noviembre, 2017) Disgrafía: causas, síntomas y tratamiento. Psicología clínica.
 
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure

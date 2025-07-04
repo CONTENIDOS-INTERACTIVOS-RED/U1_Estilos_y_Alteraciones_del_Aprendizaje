@@ -18,15 +18,29 @@
                 img(src="@/assets/curso/tema4/1.svg" alt="" style="max-width: 400px;").mx-auto.mb-4.mb-lg-0
             .col-lg-8
               ul.lista-ul--color
-                li.mb-3
+                li.mb-1
                   i.fas.fa-arrow-circle-right
-                  | #[strong Disgrafía primaria]. Se manifiesta sin causas aparentes, atribuida a factores madurativos o funcionales.
+                  | Confusión en operaciones simples, como sumas y restas.
 
-
-                li.mb-4.mb-lg-0
+                li.mb-1
                   i.fas.fa-arrow-circle-right
-                  | #[strong Disgrafía secundaria.] Se relaciona con otros trastornos, como dificultades neurológicas, problemas de atención o factores pedagógicos. Un ejemplo común se observa en el síndrome hipercinético.
+                  | Dificultad para diferenciar signos matemáticos y conceptos como "mayor que" y "menor que."
 
+                li.mb-1
+                  i.fas.fa-arrow-circle-right
+                  | Problemas para recordar secuencias numéricas y tablas de multiplicar.
+
+                li.mb-1
+                  i.fas.fa-arrow-circle-right
+                  | Dificultad en la interpretación de gráficos y diagramas.
+
+                li.mb-1
+                  i.fas.fa-arrow-circle-right
+                  | Ansiedad y frustración ante actividades matemáticas, lo que afecta su autoestima.
+
+                li.mb-1
+                  i.fas.fa-arrow-circle-right
+                  | Dificultades para manejar números en situaciones cotidianas, como contar dinero o leer la hora en relojes analógicos.
 
 
       p(data-aos="fade-up") A pesar del apoyo familiar y escolar, Pablo evita las actividades numéricas en clase, delegándolas a sus compañeros y mostrando desmotivación en esta área.
@@ -73,7 +87,7 @@
       #t_4_1.titulo-segundo(data-aos="flip-up")
         h2 #[span 4.1] Características y síntomas de la discalculia
       
-      p.mb-4(data-aos="fade-up") Este trastorno se manifiesta con una variedad de dificultades que afectan el aprendizaje matemático.
+      p.mb-4(data-aos="fade-up") La discalculia es un trastorno del desarrollo que afecta la competencia numérica y las habilidades matemáticas. Se manifiesta desde los primeros años de escolarización y, si no se aborda a tiempo, puede persistir hasta la adultez.
 
       .row.mb-5
         .col-lg-8
@@ -222,7 +236,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-7
               h2.mb-4(data-aos="flip-up") Tratamiento y estrategias en el aula de la discalculia
-              p.mb-4(data-aos="fade-right") Los invitamos a leer el documento Tratamiento y estrategias en el aula de la discalculia , donde se presentan enfoques clave para apoyar a los estudiantes con esta dificultad en el aprendizaje matemático. Descubrirán estrategias didácticas como el uso de materiales manipulativos, enseñanza visual y refuerzo positivo, fundamentales para promover un entorno educativo inclusivo y favorecer el desarrollo de habilidades numéricas con confianza y autonomía.
+              p.mb-4(data-aos="fade-right") Los invitamos a leer el documento Tratamiento y estrategias en el aula de la discalculia, donde se presentan enfoques clave para apoyar a los estudiantes con esta dificultad en el aprendizaje matemático. Descubrirán estrategias didácticas como el uso de materiales manipulativos, enseñanza visual y refuerzo positivo, fundamentales para promover un entorno educativo inclusivo y favorecer el desarrollo de habilidades numéricas con confianza y autonomía.
               a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
@@ -246,16 +260,12 @@
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://www.psicologia-online.com/que-es-la-discalculia-sintomas-causas-y-tratamiento-4459.html?form=MG0AV3" target="_blank" rel="noopener noreferrer") Babarro, N. (2 de septiembre, 2024) Qué es la discalculia: síntomas, causas y tratamiento. Psicología-Online
+                a(href="https://doi.org/10.7203/relieve.25.1.10125" target="_blank" rel="noopener noreferrer") Benedicto-López, P., & Rodríguez-Cuadrado, S. (2019). Discalculia: manifestaciones clínicas, evaluación y diagnóstico. Perspectivas actuales de intervención educativa. RELIEVE. Revista Electrónica de Investigación y Evaluación Educativa, 25(1), 10125. 
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://institutojubones.edu.ec/ojs/index.php/societec/article/view/147/434" target="_blank" rel="noopener noreferrer") González, A. G. Á., & Freire, J. F. R. (2021). La discalculia en alumnos de la educación básica. Sociedad & Tecnología, 4(3), 432-446.
-
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/49080?page=110" target="_blank" rel="noopener noreferrer") Teruel Romero, J. & Latorre Latorre, Á. (2015). Dificultades de aprendizaje: intervención en dislexia y discalculia: (ed.). Difusora Larousse - Ediciones Pirámide.
-
+                a(href="https://bibliotecadigital.usb.edu.co/server/api/core/bitstreams/420f1fc0-e983-4832-983a-d9a4753aa256/content?form=MG0AV3" target="_blank" rel="noopener noreferrer") Bravo Mendoza, A. M., López Vargas, A. R., & Pérez Palmett, G. R. (2021). La discalculia es una dificultad silenciosa. Universidad de San Buenaventura. 
+                
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure
                 img(src='@/assets/componentes/material-complementario.svg', alt='')
