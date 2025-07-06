@@ -99,6 +99,10 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://dolorsmaspsicologa.com/wp-content/uploads/2015/10/Ps_inf_trastornos_especificos_aprendizaje.pdf" target="_blank" rel="noopener noreferrer") Magaña, M., & Ruiz-Lázaro, P. (2005). Trastornos específicos del aprendizaje. Sociedad española de Pediatría Extra Hospitalaria y Atención primaria (SEPEAP), 21-28. 
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://doi.org/10.1016/j.rmclc.2022.09.001" target="_blank" rel="noopener noreferrer") Portellano Pérez, J. A. (2014). La disgrafía: concepto, diagnóstico y tratamiento de los trastornos de escritura: (ed.). Editorial CEPE.
 
             p.d-flex.my-4
@@ -112,6 +116,10 @@
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://elibro.net/es/ereader/tecnologicadeloriente/49080?page=20" target="_blank" rel="noopener noreferrer") Teruel Romero, J. & Latorre Latorre, Á. (2015). Dificultades de aprendizaje: intervención en dislexia y discalculia: (ed.). Difusora Larousse - Ediciones Piramide
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://definicion.de/trastorno/" target="_blank" rel="noopener noreferrer") Porto, J. P., & Merino, M. (2023, 2 febrero). Trastorno - Qué es, definición y concepto. Definición.de.
 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1

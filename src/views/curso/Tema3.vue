@@ -403,6 +403,10 @@
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
                 a(href="https://elibro.net/es/ereader/tecnologicadeloriente/153575?page=19" target="_blank" rel="noopener noreferrer") Rodríguez Jorrín, D. (2018). La disortografía: prevención y corrección: (ed.). Editorial CEPE. 
 
+              p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://elibro.net/es/ereader/tecnologicadeloriente/153574?page=43" target="_blank" rel="noopener noreferrer") Portellano Pérez, J. A. (2014). La disgrafía: concepto, diagnóstico y tratamiento de los trastornos de escritura: (ed.). Editorial CEPE. 
+
 
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure
